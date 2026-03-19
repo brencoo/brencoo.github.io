@@ -110,6 +110,12 @@
   padding: $spacing-unit 0;
 }
 
+.footer-tagline {
+  color: $grey-color;
+  margin: 0;
+  text-align: center;
+}
+
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * 0.5;
